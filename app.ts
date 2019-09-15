@@ -1,0 +1,1 @@
+let todo: string = "Sample TypeScript";
